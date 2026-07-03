@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Learning+Java+%26+C%23;Building+small+projects+to+level+up;Always+curious%2C+always+building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://facebook.com/loocnguyn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:locbignood113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -48,15 +43,13 @@
 
 ---
 
-### 📫 Reach Me
+### 🌐 Connect with Me
 
-<p align="left">
-  <a href="mailto:locbignood113@gmail.com">
-    <img src="https://img.shields.io/badge/-locbignood113%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/loocnguyn">
-    <img src="https://img.shields.io/badge/-facebook.com%2Floocnguyn-1877F2?style=flat&logo=Facebook&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://facebook.com/loocnguyn" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/loocnguyn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/loocnguyn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:locbignood113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
