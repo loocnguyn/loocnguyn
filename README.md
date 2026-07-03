@@ -32,17 +32,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=loocnguyn&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loocnguyn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loocnguyn&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loocnguyn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loocnguyn&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
@@ -63,8 +59,4 @@
   <a href="https://www.youtube.com/@locsamaa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://steamcommunity.com/id/kaorithefrog/" target="_blank"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" /></a>
   <a href="mailto:locbignood113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loocnguyn&style=flat&color=blue" alt="profile views" />
 </p>
