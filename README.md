@@ -41,6 +41,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loocnguyn&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=loocnguyn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loocnguyn&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
 ---
 
 ### 🌐 Connect with Me
