@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -33,20 +33,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=loocnguyn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loocnguyn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loocnguyn&theme=tokyonight" alt="profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loocnguyn&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loocnguyn&theme=tokyonight" alt="stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loocnguyn&theme=tokyonight" alt="most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=loocnguyn&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+### 📈 When I Actually Commit
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loocnguyn&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loocnguyn&theme=tokyonight&utcOffset=7" alt="productive time" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loocnguyn&theme=tokyonight" alt="repos per language" />
 </p>
 
 ---
