@@ -12,7 +12,7 @@
 * [**Doc to MD**](https://doc-to-md-three.vercel.app)<div align="justify">Turns your docs (.pdf, .docx, .ppt, .xlsx,...) into clean Markdown. Merge files with your prompt into a single Markdown.</div>
 * [**Reduce File Size**](examle.com)<br>coming soon.
 * [**Doom Scroll Maxxing**](examle.com)<br>coming soon.
-* [**Anonymous Instagram Profile Checker**](examle.com)<br>coming soon.
+* [**Anonymous Insta Profile Checker**](examle.com)<br>coming soon.
 </td><td valign="top" width="33%">
 
 ### Games
