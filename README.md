@@ -14,7 +14,7 @@
 * [**Reduce File Size**](examle.com) <br>coming soon.
 * [**Doom Scroll Maxxing**](examle.com) <br>coming soon.
 * [**Anonymous Instagram Profile Checker**](examle.com) <br>coming soon.
-</td><td valign="top" width="33%" align="justify">
+</td><td valign="top" width="33%" >
 
 ### Games
 </td></tr></table>
