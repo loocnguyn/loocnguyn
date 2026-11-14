@@ -11,7 +11,7 @@
 <!-- blog starts -->
 * [**Doc to MD**](https://doc-to-md-three.vercel.app)<div align="justify">Turns your docs (.pdf, .docx, .ppt, .xlsx,...) into clean Markdown. Merge files with your prompt into a single Markdown.</div>
 * [**Reduce File Size**](examle.com)<br>coming soon.
-* [**Doom Scroll Maxxing**](examle.com)<div align="justify">Watch short videos from 4 platforms at once, helping you waste time 4x faster than a normal human.</div>
+* [**Doom Scroll Maxxing**](examle.com)<div align="justify">Watch short videos from 4 platforms at once, so you can waste time 4x faster than a normal human.</div>
 * [**Anonymous Insta Profile Checker**](examle.com)<br>coming soon.
 </td><td valign="top" width="33%">
 
