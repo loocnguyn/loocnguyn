@@ -10,11 +10,12 @@
 ### Tools
 <!-- blog starts -->
 * [**Doc to MD**](https://doc-to-md-three.vercel.app)<div align="justify">Turn and merge your docs, prompts into a clean single .md file.</div>
-* [**Reduce File Size**](examle.com)<br>coming <br>soon.
-* [**Doom Scroll Maxxing**](examle.com)<div align="justify">Watch multiple shorts at once so you can waste time more efficiently.</div>
-* [**Anonymous Insta Profile Checker**](examle.com)<div align="justify">See your crush’s stories secretly so she never knows how weak you are.</div>
+* [**Reduce File Size**](https://example.com)<br>coming <br>soon.
+* [**Doom Scroll Maxxing**](https://example.com)<div align="justify">Watch multiple shorts at once so you can waste time more efficiently.</div>
+* [**Anonymous Insta Profile Checker**](https://example.com)<div align="justify">See your crush’s stories secretly so she never knows how weak you are.</div>
+* [**Contribution Farmers**](https://example.com)<div align="justify"><br>coming <br>soon.</div>
 </td><td valign="top" width="33%">
 
 ### Games
-* [**Path to Oblivion**](examle.com)<br>coming soon.
+* [**Path to Oblivion**](https://example.com)<br>coming soon.
 </td></tr></table>
