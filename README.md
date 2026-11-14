@@ -10,9 +10,9 @@
 ### Tools
 <!-- blog starts -->
 * [**Doc to MD**](https://doc-to-md-three.vercel.app)<div align="justify">Turn and merge your docs, prompts into a clean single .md file.</div>
-* [**Reduce File Size**](examle.com)<br>coming soon.
+* [**Reduce File Size**](examle.com)<br>coming <br>soon.
 * [**Doom Scroll Maxxing**](examle.com)<div align="justify">Watch multiple shorts at once so you can waste time more efficiently.</div>
-* [**Anonymous Insta Profile Checker**](examle.com)<div align="justify">See your crush’s stories in secret so she never finds out how weak you are.</div>
+* [**Anonymous Insta Profile Checker**](examle.com)<div align="justify">See your crush’s stories secretly so she never knows how weak you are.</div>
 </td><td valign="top" width="33%">
 
 ### Games
