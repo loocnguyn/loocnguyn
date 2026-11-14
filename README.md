@@ -4,7 +4,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent releases
-* [**IELTS With Your Friends**](https://ielts-squad.vercel.app)<div align="justify">Practice IELTS together because none of you guys can afford a tutor.</div>
+* [**IELTS With Your Friends**](https://ielts-squad.vercel.app)<div align="justify">Free IELTS prep with friends because none of you guys can afford a tutor.</div>
 </td><td valign="top" width="34%">
 
 ### Tools
