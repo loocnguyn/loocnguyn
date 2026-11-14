@@ -14,6 +14,7 @@
 * [**Doom Scroll Maxxing**](https://example.com)<div align="justify">Watch multiple shorts at once so you can waste time more efficiently.</div>
 * [**Anonymous Insta Profile Checker**](https://example.com)<div align="justify">See your crush’s stories secretly so she never knows how weak you are.</div>
 * [**Contribution Farmers**](https://example.com)<div align="justify"><br>coming <br>soon.</div>
+* [**FromSoftware Helper**](https://example.com)<div align="justify"><br>coming <br>soon.</div>
 </td><td valign="top" width="33%">
 
 ### Games
